@@ -1,14 +1,13 @@
 # Documentary Filmmaker Portfolio
 
-A modern portfolio website for a documentary filmmaker and photojournalist. The project is built with Next.js and Tailwind CSS and focuses on presenting visual stories, films, and photography in an editorial web experience.
+Modern portfolio website for a documentary filmmaker and photojournalist. Built with Next.js and Tailwind CSS to present films, photography, and visual stories in an editorial browsing experience.
 
 ## Features
 
 - Responsive portfolio presentation
 - Documentary and photography project pages
 - Reusable Next.js components
-- Tailwind CSS styling
-- Static assets and content collections
+- Static media and content collections
 
 ## Run Locally
 
@@ -17,14 +16,7 @@ npm install
 npm run dev
 ```
 
-Open the local URL printed by Next.js in your browser.
-
-## Project Structure
-
-- `app/` contains the Next.js routes and pages.
-- `components/` contains reusable UI components.
-- `data/` contains portfolio content.
-- `public/` contains static media and assets.
+The main application is in `app/`, reusable UI is in `components/`, content is in `data/`, and media is in `public/`.
 
 ## Status
 
